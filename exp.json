@@ -1,0 +1,10 @@
+{
+   "name": "Property finder",
+   "icon": "https://s3.amazonaws.com/exp-us-standard/rnplay/app-icon.png",
+   "version": "1.0.0",
+   "slug": "propertyapp",
+   "sdkVersion": "16.0.0",
+   "android": {
+     "package": "in.dhwanil.propertyapp",
+   }
+ }
